@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "haxball-339623",
-  "private_key_id": "d30d7309ce9f32bc98c8b2c8c99a129cd317bdb7",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDxMU+U3sumFNWQ\nZiaPGwGzlQzaL6Ad/wcqSD9cDv3tpHflcf7za43HglLZRqHXX4+uQEYHypJcZvuu\ntbRc97XideeWMsr0rX/vNOJGbMjXCsMGkugLdFjLqJpqmt9YWcyKdPyf3aLIFwbK\nlzw8yOK2WNuJjYHQbWcpCH8GUYCYz/gzX0pixB//IZxR5TFh9tyxhdfAG6BtrggA\nPJTwr9nnYpZ1/smiXnaKZ0ZhczlwIFlWwbPwfyMRmHLRlkHG8i5pO5LsPpY9DFCr\nTmZUK9UzediYRsAXnDf+WI7w4y8EsCxPcq2RseQUQfkxyMQ6BWMS/ohiA5MpJ490\ndnb4XhZvAgMBAAECggEAZSC2S+agf5nTs7BI8Y6yx2+yzFbUrU8NW4qgWkKE8JuZ\nk9AYxEpvz1uSzjwhxpJwRXD4i/LBLFIXq/jOz34jOnkSKXVRiIaokgzb5Qheq199\nRyfYeFkHlBi06gbWp447R0Bm3cbJpliVReNkY94cxLT8E7AL4m7Epr1DuUv5/dfA\nyL/4ncyirkwra5T2KcXM2wW5OXuqc/GA03ZwACQIYIH3p422KRMk7Iiv9NHOotKH\n5ZIPdI0F7zcZeAIqFc1aCfE+LFUBL7G6RobagsRNeRUqRwjk60Mubdu6QyjCj0iF\nDYyzY+f1pZVrYFou8e9hPc8T/WGv7deR7ToXcHFjDQKBgQD62qXaacvrkawyvw2n\nxwSv9S4+bDUxmm3r+vOt6JrIC5Jh0/PbYieJOj0y4SKbEH7ia8UXorxXEitlzE9c\n3uY16yKQujL+W2LDMqGKPlFhG9QFwJJzepAlk3l4Q0PGMN3F0/e0YkqGWXRjBeGp\nlnITR/B5afHosizLHYyGpHoMzQKBgQD2I+0UTTJQ3J0bgTPWU/z4orK4WDzoeQWR\nSBEWogME5QAtww+pUPn+Rs9HZLQRE1ePcm25nxCsLhwqFQBxX9eKIyrQ1PytdzbX\nI2RWBrmr7S2CMrzWkaI3rr6SxMrUwKhIUxie+BRzLPOKuUrKiSHuBU6mmRnUK1Nx\nPnZ761WwKwKBgAzlOotszt/QQELnkWMjlvkYqITq+R0QrD/qSaaSA4rvFVpUFAAe\nHpwuU0EPU8EW6v7mvV4GrpnnRDXad+X1S25QJRm9iKuMtRoFu0opA/PzA0Y8bQrk\nrQ5Rc3gcNRq2HmByEhTCzMP1S0df4QbfxgN5ukHzkUz+A9F5NmUhhWitAoGBAI78\nKcIMYjlVHzMWKD3OhnsNUJMEN0W44AIYgkzKisRyH1t2IAf00XTkP48ysePlf40G\nJTWacL4E/zl2/83cpkJJ0ZqEz9AZG9N4bNYIjB2S50fmH4rqCPkd2vk5trZGwLtb\nAkd+x6psp4GjyA3GAd7aWGkxMS7uiEeVyJCOEjYHAoGAdqQgxb2HcarQyG+end6j\nSl4bYgC+4jZzPnGwkydAu07Je8zHQofYlTcFcdY94l7nmQSslAxyHd4sQbHp9zj3\nQhIPj4Ix88tGy8Bl9gnoL0FxF81lO0kSVXSztPQpEohbpfmTLPIpQPW57MYN9jTH\nTKum1TEzgK+Pt77JlDZQIAw=\n-----END PRIVATE KEY-----\n",
-  "client_email": "haxballservice@haxball-339623.iam.gserviceaccount.com",
-  "client_id": "100951802946397448051",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/haxballservice%40haxball-339623.iam.gserviceaccount.com"
-}
+
